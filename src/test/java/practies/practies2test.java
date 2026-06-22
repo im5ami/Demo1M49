@@ -8,5 +8,6 @@ public class practies2test
 	public void food1test()
 	{
 		System.out.println("vada pav");
+		System.out.println("Biryani");
 	}
 }
