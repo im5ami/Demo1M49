@@ -9,6 +9,5 @@ public class practies2test
 	{
 		System.out.println("vada pav");
 		System.out.println("Biryani");
-		System.out.println("rice");
 	}
 }
